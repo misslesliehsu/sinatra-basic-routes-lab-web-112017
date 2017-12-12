@@ -16,9 +16,5 @@ class App < Sinatra::Base
   get '/name' do
     "My name is Leslie"
   end
-  
-  end
-  
 
-  
 end
